@@ -31,12 +31,14 @@ h2 {
   text-transform: uppercase;
   color: #fff;
   padding-bottom: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 p {
   color: #fff;
   line-height: 1.6em;
   text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .command {
@@ -50,4 +52,12 @@ p {
   width: 100%;
   height: 400px;
   background-color: #750C20;
+}
+.trois {
+  width: 100%;
+  height: 400px;
+  background-color: #F3C236;
+}
+.colortext {
+  color: #750C20;
 }
