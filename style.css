@@ -9,7 +9,6 @@ a:hover { text-decoration: underline; }
 
 
 body {
-  width: 960px;
   margin: auto;
 }
 
@@ -17,13 +16,16 @@ body {
   width: 230px;
   margin: auto;
   clear: both;
+  padding-bottom: 15px;
+  border-bottom: 1px solid black ;
+
 }
 
 img {
   padding-top: 5px;
 }
 
-.test3 {
+.img2 {
 padding-right: 5px;
 
 }
@@ -59,14 +61,15 @@ p {
 }
 
 .test1 {
-border: 0;
-float: left;
+  border: 0;
+  float: left;
+  padding-bottom: 40px;
 
 }
 
 
 .test2 {
-border: 0;
-float: right;
-padding-bottom: 30px;
+  border: 0;
+  float: right;
+  padding-bottom: 40px;
 }
