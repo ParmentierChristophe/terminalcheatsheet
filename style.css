@@ -7,17 +7,31 @@ ul { list-style: none; }
 a { text-decoration: none; color : inherit; }
 a:hover { text-decoration: underline; }
 
+header {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    background-color: #527e97;
+    font-size: 20px;
+    color: #fff ;
+}
 
 body {
   margin: auto;
 }
 
+.row1 {
+  background-color: #e7e8ea;
+  padding-top: 50px;
+
+}
+
 .contenu {
+  background-color: #e7e8ea;
   width: 230px;
   margin: auto;
   clear: both;
-  padding-bottom: 15px;
-  border-bottom: 1px solid black ;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #527e97 ;
 
 }
 
@@ -25,8 +39,8 @@ body {
   width: 230px;
   margin: auto;
   clear: both;
-  padding-bottom: 30px;
-  border-bottom: 1px solid black ;
+  padding-bottom: 35px;
+  border-bottom: 2px solid #527e97 ;
 
 }
 
