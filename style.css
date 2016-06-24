@@ -14,11 +14,19 @@ body {
 }
 
 .contenu {
-  width: 300px;
+  width: 230px;
   margin: auto;
   clear: both;
 }
 
+img {
+  padding-top: 5px;
+}
+
+.test3 {
+padding-right: 5px;
+
+}
 
 header {
   width: 100%;
@@ -39,9 +47,13 @@ h2 {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-p {
+.cmd {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 2em;
+}
 
-  line-height: 1.6em;
+p {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
 }
